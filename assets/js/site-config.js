@@ -5,5 +5,5 @@
   Vazio: o Analytics fica desligado e o aviso de cookies não aparece.
 */
 window.SHOPPLOSION_CONFIG = {
-  ga4Id: ''
+  ga4Id: 'G-997HCW3RHJ'
 };
